@@ -1,2 +1,2 @@
-# catalystbot
-bot
+# Catalyst Bot
+Advanced Discord Bot
